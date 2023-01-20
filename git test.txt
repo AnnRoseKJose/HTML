@@ -1,0 +1,4 @@
+to check whether git is updated use only these codes:
+   git add .
+   git commit -m "updation"
+   git push origin master
